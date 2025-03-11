@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**sanjay-rassani/sanjay-rassani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about Python, Django, and backend development. Feel free to explore my repositories and projects.
 
-Here are some ideas to get you started:
+## Profile Views
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Profile View Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/your-username&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
+
+## About Me
+
+- 🔭 I’m currently working as a Python Developer at OmniApp Solutions.
+- 🌱 I’m learning advanced Django, API optimizations, and database performance tuning.
+- 💬 Ask me about Python, Django, PostgreSQL, and REST APIs.
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sanjayrassani)  
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://twitter.com/sanjayrassani)
+
+Thanks for visiting! 🚀
