@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm passionate about Python, Django, and backend d
 
 ## About Me
 
-- 🔭 I’m currently working as a Python Developer at OmniApp Solutions.
+- 🔭 I’m currently working as a Python Developer.
 - 🌱 I’m learning advanced Django, API optimizations, and database performance tuning.
 - 💬 Ask me about Python, Django, PostgreSQL, and REST APIs.
 
