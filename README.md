@@ -2,9 +2,14 @@
 
 Welcome to my GitHub profile! I'm passionate about Python, Django, and backend development. Feel free to explore my repositories and projects.
 
-## Profile Views
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=antonkomarev&style=for-the-badge">
+</a>
 
-![Profile View Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/your-username&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
+[Ÿ HŸPE]: https://yhype.me
+[GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
+
+![](https://hit.yhype.me/github/profile?account_id=1849174)
 
 ## About Me
 
