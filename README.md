@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about Python, Django, and backend d
 
 ## Profile Views
 
-![Profile View Counter](https://count.getloli.com/get/@sanjay-rassani?theme=morden-num))
+![Profile View Counter](https://count.getloli.com/get/@sanjay-rassani?theme=morden-num)
 
 ## About Me
 
