@@ -7,6 +7,7 @@ With over 3 years of experience across startups and SaaS platforms, I’ve archi
 
 I'm passionate about writing clean, maintainable code and enjoy mentoring, collaborating across teams, and driving product vision from concept to delivery.
 
+<h2></h2>
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
