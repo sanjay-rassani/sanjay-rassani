@@ -2,7 +2,6 @@
 **Senior Software Engineer**
 
 Islamabad, Pakistan  
-+92 333 2966316  
 sanjayrassani@gmail.com | [github.com/sanjay-rassani](https://github.com/sanjay-rassani) | [linkedin.com/in/sanjayrassani](https://linkedin.com/in/sanjayrassani)
 
 ---
